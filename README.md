@@ -22,6 +22,6 @@ In general I'm more willing to set the entry then to deny it. If you're not sure
 
 
 ### What about events with different dates
-We have this case for example with the Bronze Age. Its set to different times in different locations of earth. Either give me the eariest date or all of them. We can't have too much information.
+We have this case for example with the Bronze Age. Its set to different times in different locations of earth. Either give me the earliest date or all of them. We can't have too much information.
 
 Thank you
