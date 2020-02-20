@@ -8,9 +8,6 @@ The goal of this repository is to collect as many milestones (or other events wi
 
 ## Q&A
 
-### Where does the timeline start?
-This timeline is seen as the timeline of humankind and follows the Holocene calendar (https://en.wikipedia.org/wiki/Holocene_calendar) as it's seen to start with the "modern" human history.
-
 ### Whats the date format?
 YYYY.MM.DD - NAME_OF_EVENT
 Because thats the best way to sort dates
