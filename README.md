@@ -14,6 +14,7 @@ The goal of this repository is to collect as many milestones (or other events wi
 
 ### Whats the date format?
 YYYY.MM.DD ; NAME_OF_EVENT ; SOURCE
+
 The format is not fixed and may change. I'm thinking about a Tag section as well as a Description section
 
 ### I'd like to contribute, but how?
