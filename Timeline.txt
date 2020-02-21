@@ -1,11 +1,31 @@
--9000.00.00 - Jericho (first city)
--3300.00.00 - Early Bronze Age
--2100.00.00 - Middle Bronze Age
--1550.00.00 - Late Bronze Age
--0800.00.00 - Iron Age
-0000.00.00 - "Year 0"
-0568.00.00 - Middle Ages
-1400.00.00 - Renaissance
-1712.00.00 - Steam Engine
-1969.07.20 - Apollo 11 (Moon landing)
-1969.10.29 - First Internet Connection (ARPA net)
+-9000.00.00 ; Jericho (first city)
+-3300.00.00 ; Early Bronze Age
+-2100.00.00 ; Middle Bronze Age
+-1550.00.00 ; Late Bronze Age
+-0800.00.00 ; Iron Age
+0000.00.00 ; "Year 0"
+0568.00.00 ; Middle Ages
+1400.00.00 ; Renaissance
+1769.00.00 ; Invention of Steam Engine ; https://en.wikipedia.org/wiki/United_States
+1776.07.04 ; Independence of USA ; https://en.wikipedia.org/wiki/United_States
+1825.00.00 ; First Railway ; https://www.southampton.ac.uk/~cpd/history.html
+1859.00.00 ; Theory of evolution by natural selection (Darwin, Origin of Species) ; https://www.southampton.ac.uk/~cpd/history.html
+1874.07.24 ; First patent of the Incandescent Light Bulb ; https://www.southampton.ac.uk/~cpd/history.html
+1885.00.00 ; First internal-combustion engines ; https://www.southampton.ac.uk/~cpd/history.html
+1914.07.26 ; First World War ; https://www.southampton.ac.uk/~cpd/history.html
+1917.00.00 ; Russion Revolution and first Communist State ; https://www.southampton.ac.uk/~cpd/history.html
+1930.00.00 ; Isolation of first antibiotic (Penicillin) ; https://www.southampton.ac.uk/~cpd/history.html
+1939.09.01 ; Second World War ; https://www.southampton.ac.uk/~cpd/history.html
+1945.08.06 ; First use of atomic bomb (Hiroshima) ; https://www.southampton.ac.uk/~cpd/history.html
+1947.00.00 ; Invention of transistors ; https://www.southampton.ac.uk/~cpd/history.html
+1953.00.00 ; Chemical structure of DNA worked out ; https://www.southampton.ac.uk/~cpd/history.html
+1957.10.04 ; First oribing space satellite (Sputnik 1) ; https://www.southampton.ac.uk/~cpd/history.html
+1961.04.12 ; First human in space (Gagarin) ; https://www.southampton.ac.uk/~cpd/history.html
+1969.07.20 ; First humans land on the moon (Apollo 11) ; https://www.southampton.ac.uk/~cpd/history.html
+1969.10.29 ; First Internet Connection (ARPAnet) ; https://en.wikipedia.org/wiki/ARPANET
+1981.00.00 ; Discovery of AIDS ; https://www.southampton.ac.uk/~cpd/history.html
+1983.00.00 ; Creation of Internet ; https://www.southampton.ac.uk/~cpd/history.html
+1986.00.00 ; World population of humans passes 5.000.000.000 ; https://www.southampton.ac.uk/~cpd/history.html
+1996.00.00 ; First cloned cheep ; https://www.southampton.ac.uk/~cpd/history.html
+1997.07.04 ; First robotic rover (Sojourner) lands and Mars and transmits measurements ; https://www.southampton.ac.uk/~cpd/history.html
+2012.02.15 ; Voyager leaves the solar system (as first human-made object) ; https://www.southampton.ac.uk/~cpd/history.html
