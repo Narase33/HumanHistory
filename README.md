@@ -7,15 +7,14 @@ Did you know the first city (Jericho) was built 9.000 BC? I didn't.
 The goal of this repository is to collect as many milestones (or other events with big impact on humankind) as possible and process them into a  (graphical) timeline.
 
 ## TODO
-- Writing a simple program (python?) which helps with inserting new events (should run without installation)
 - Writing a program wich generates a graphical timeline from the dates (web devs are highly welcome to write a dynamic and responsive GUI)
 
 ## Q&A
 
 ### Whats the date format?
-YYYY.MM.DD ; NAME_OF_EVENT ; SOURCE
+YYYY.MM.DD ; NAME_OF_EVENT ; TAG1 Tag2 ; SOURCE
 
-The format is not fixed and may change. I'm thinking about a Tag section as well as a Description section
+The format is not fixed and may change. I'm thinking about a Description section
 
 ### I'd like to contribute, but how?
 If you want to contribute please make a pull request with given format and a source so I can validate it or message me with the necessary information. Provide the date as precise as possible, but I'm also happy with events that can only be dated back to a specific year.
