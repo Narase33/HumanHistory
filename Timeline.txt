@@ -1,40 +1,86 @@
--9000.01.01 ; Jericho (first city)
--3300.01.01 ; Early Bronze Age
--2630.01.01 ; First Pyramids are built ; https://en.wikipedia.org/wiki/Egyptian_pyramids
--2560.01.01 ; First evidence of Papyrus ; https://en.wikipedia.org/wiki/Papyrus
--2100.01.01 ; Middle Bronze Age
--1550.01.01 ; Late Bronze Age
--0800.01.01 ; Iron Age
--0776.01.01 ; First Olympic Games ; https://en.wikipedia.org/wiki/Ancient_Olympic_Games
-0000.01.01 ; "Year 0"
-0220.01.01 ; First Woodblock Printing ; https://en.wikipedia.org/wiki/Woodblock_printing#History
-0568.01.01 ; Middle Ages
-1040.01.01 ; First Movable Type (invention of printing with movable letters) ; https://en.wikipedia.org/wiki/Movable_type
-1308.01.01 ; First reports of the Black Death (Black Plague) ; https://en.wikipedia.org/wiki/Black_Death_migration
-1347.10.01 ; The Black Death reaches Europe and the Middle East ; https://en.wikipedia.org/wiki/Black_Death_migration
-1400.01.01 ; Renaissance ; https://en.wikipedia.org/wiki/Renaissance
-1492.01.01 ; Discovery of America (by Columbus) ; https://en.wikipedia.org/wiki/History_of_the_Americas
-1517.10.31 ; Reformation of the christian church ; https://en.wikipedia.org/wiki/Ninety-five_Theses
-1543.01.01 ; Publication of De Revolutionibus (Earth revolving around the sun) ; https://en.wikipedia.org/wiki/Heliocentrism#Publication_of_De_Revolutionibus_(1543)
-1769.01.01 ; Invention of Steam Engine ; https://en.wikipedia.org/wiki/United_States
-1776.07.04 ; Independence of USA ; https://en.wikipedia.org/wiki/United_States
-1825.01.01 ; First Railway ; https://www.southampton.ac.uk/~cpd/history.html
-1859.01.01 ; Theory of evolution by natural selection (Darwin, Origin of Species) ; https://www.southampton.ac.uk/~cpd/history.html
-1874.07.24 ; First patent of the Incandescent Light Bulb ; https://www.southampton.ac.uk/~cpd/history.html
-1885.01.01 ; First internal-combustion engines ; https://www.southampton.ac.uk/~cpd/history.html
-1914.07.26 ; First World War ; https://www.southampton.ac.uk/~cpd/history.html
-1917.01.01 ; Russian Revolution and first Communist State ; https://www.southampton.ac.uk/~cpd/history.html
-1930.01.01 ; Isolation of first antibiotic (Penicillin) ; https://www.southampton.ac.uk/~cpd/history.html
-1939.09.01 ; Second World War ; https://www.southampton.ac.uk/~cpd/history.html
-1945.08.06 ; First use of atomic bomb (Hiroshima) ; https://www.southampton.ac.uk/~cpd/history.html
-1947.01.01 ; Invention of transistors ; https://www.southampton.ac.uk/~cpd/history.html
-1953.01.01 ; Chemical structure of DNA worked out ; https://www.southampton.ac.uk/~cpd/history.html
-1957.10.04 ; First oribing space satellite (Sputnik 1) ; https://www.southampton.ac.uk/~cpd/history.html
-1961.04.12 ; First human in space (Gagarin) ; https://www.southampton.ac.uk/~cpd/history.html
-1969.07.20 ; First humans land on the moon (Apollo 11) ; https://www.southampton.ac.uk/~cpd/history.html
-1969.10.29 ; First Internet Connection (ARPAnet) ; Internethttps://en.wikipedia.org/wiki/ARPANET
-1981.01.01 ; Discovery of AIDS ; https://www.southampton.ac.uk/~cpd/history.html
-1986.01.01 ; World population of humans passes 5.000.000.000 ; https://www.southampton.ac.uk/~cpd/history.html
-1996.01.01 ; First cloned cheep ; https://www.southampton.ac.uk/~cpd/history.html
-1997.07.04 ; First robotic rover (Sojourner) lands and Mars and transmits measurements ; https://www.southampton.ac.uk/~cpd/history.html
-2012.02.15 ; Voyager leaves the solar system (as first human-made object) ; https://www.southampton.ac.uk/~cpd/history.html
+-9000.00.00 ; Jericho (first city) ; Creation ; https://en.wikipedia.org/wiki/Jericho
+-5000.00.00 ; Copper Age ; Epoch ; https://en.wikipedia.org/wiki/Chalcolithic
+-3300.00.00 ; Early Bronze Age ; Epoch ; https://en.wikipedia.org/wiki/Bronze_Age
+-2630.00.00 ; First Pyramids are built ; Creation ; https://en.wikipedia.org/wiki/Egyptian_pyramids
+-2560.00.00 ; First evidence of Papyrus ; Invention ; https://en.wikipedia.org/wiki/Papyrus
+-2100.00.00 ; Middle Bronze Age ; Epoch ; https://en.wikipedia.org/wiki/Bronze_Age
+-1550.00.00 ; Late Bronze Age ; Epoch ; https://en.wikipedia.org/wiki/Bronze_Age
+-0800.00.00 ; Iron Age ; Epoch ; https://en.wikipedia.org/wiki/Iron_Age
+-0776.00.00 ; First Olympic Games ;  ; https://en.wikipedia.org/wiki/Ancient_Olympic_Games
+-0551.00.00 ; Confucius (Chinese philosopher) is born ; Person ; https://en.wikipedia.org/wiki/Confucius
+-0500.00.00 ; Laozi (Chinese philosopher and writer) is born ; Person ; https://en.wikipedia.org/wiki/Laozi
+-0480.00.00 ; Gautama Buddha (philosopher, mendicant, meditator, spiritual teacher, and religious leader) is born ; Person ; https://en.wikipedia.org/wiki/Gautama_Buddha
+-0470.00.00 ; Socrates (Greek philosopher) is born ; Person ; https://en.wikipedia.org/wiki/Socrates
+-0404.00.00 ; Diogenes (Greek philosopher) is born ; Person ; https://en.wikipedia.org/wiki/Diogenes
+-0384.00.00 ; Aristotle (Greek philosopher) is born ; Person ; https://en.wikipedia.org/wiki/Aristotle
+-0287.00.00 ; Archimedes of Syracuse (Greek scientist) is born ; Person ; https://en.wikipedia.org/wiki/Archimedes
+-0248.00.00 ; Plato (Greek philosoph) isborn ; Person ; https://de.wikipedia.org/wiki/Platon
+-0100.07.12 ; Gaius Julius Caesar (Roman statesman and military general) is born ; Person ; https://en.wikipedia.org/wiki/Julius_Caesar
+-0069.08.10 ; Cleopatra VII Philopator (last active ruler of the Ptolemaic Kingdom of Egypt) is born ; Person ; https://en.wikipedia.org/wiki/Cleopatra
+0079.10.24 ; Eruption of Mount Vesuvius ; Disaster ; https://en.wikipedia.org/wiki/Mount_Vesuvius#Eruption_of_AD_79
+0220.00.00 ; First Woodblock Printing ; Invention ; https://en.wikipedia.org/wiki/Woodblock_printing#History
+0272.00.00 ; Destruction of Library of Alexandria ; Disaster ; https://en.wikipedia.org/wiki/Library_of_Alexandria#Roman_Period_and_destruction
+0568.00.00 ; Middle Ages ; Epoch ; https://en.wikipedia.org/wiki/Middle_Ages
+1040.00.00 ; First Movable Type (invention of printing with movable letters) ; Invention ; https://en.wikipedia.org/wiki/Movable_type
+1225.00.00 ; Thomas Aquinas (Italian Dominican friar, philosopher, Catholic priest, and Doctor of the Church) is born ; Person ; https://en.wikipedia.org/wiki/Thomas_Aquinas
+1296.00.00 ; Begin of the first Scottish Independence War ;  ; https://en.wikipedia.org/wiki/Wars_of_Scottish_Independence
+1308.00.00 ; First reports of the Black Death (Black Plague) ; Disaster ; https://en.wikipedia.org/wiki/Black_Death_migration
+1332.00.00 ; Begin of the second Scottish Independence War ;  ; https://en.wikipedia.org/wiki/Wars_of_Scottish_Independence
+1347.10.01 ; The Black Death reaches Europe and the Middle East ; Disaster ; https://en.wikipedia.org/wiki/Black_Death_migration
+1400.00.00 ; Renaissance ; Epoch ; https://en.wikipedia.org/wiki/Renaissance
+1452.04.15 ; Leonardo da Vinci (Italian polymath) is born ; Person ; https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+1469.05.03 ; Niccolò di Bernardo dei Machiavelli (Italian diplomat, politician, historian, philosopher, writer, playwright and poet) is born ; Person ; https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli
+1492.00.00 ; Discovery of America (by Columbus) ;  ; https://en.wikipedia.org/wiki/History_of_the_Americas
+1503.00.00 ; Mona Lisa (portrait painting) is created ; Creation ; https://en.wikipedia.org/wiki/Mona_Lisa
+1517.10.31 ; Reformation of the christian church ;  ; https://en.wikipedia.org/wiki/Ninety-five_Theses
+1543.00.00 ; Publication of De Revolutionibus (Earth revolving around the sun) ; Publication ; https://en.wikipedia.org/wiki/Heliocentrism#Publication_of_De_Revolutionibus_(1543)
+1596.03.31 ; René Descartes (French philosopher, mathematician, and scientist) is born ; Person ; https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+1624.03.20 ; Isaac Newton (English mathematician, physicist, astronomer, theologian, and author) is born ; Person ; https://en.wikipedia.org/wiki/Isaac_Newton
+1632.08.29 ; John Locke (English philosopher and physician) is born ; Person ; https://en.wikipedia.org/wiki/John_Locke
+1632.11.24 ; Baruch Spinoza (Dutch philosopher) is born ; Person ; https://en.wikipedia.org/wiki/Baruch_Spinoza
+1646.07.01 ; Gottfried Wilhelm Leibniz (German polymath) is born ; Person ; https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+1694.11.21 ; Voltaire (French Enlightenment writer, historian, and philosopher) is born ; Person ; https://en.wikipedia.org/wiki/Voltaire
+1711.05.07 ; David Hume (Scottish Enlightenment philosopher, historian, economist, and essayist) is born ; Person ; https://en.wikipedia.org/wiki/David_Hume
+1724.04.22 ; Immanuel Kant (Prussian German philosopher) is born ; Person ; https://de.wikipedia.org/wiki/Immanuel_Kant
+1769.00.00 ; Invention of Steam Engine ; Invention ; https://en.wikipedia.org/wiki/United_States
+1773.12.16 ; Boston Tea Party ;  ; https://en.wikipedia.org/wiki/Boston_Tea_Party
+1776.07.04 ; Independence of USA ;  ; https://en.wikipedia.org/wiki/United_States
+1796.00.00 ; First Vaccination (Smallpox) ; Invention ; https://en.wikipedia.org/wiki/Timeline_of_vaccines
+1825.00.00 ; First Railway ; Invention ; https://www.southampton.ac.uk/~cpd/history.html
+1859.00.00 ; Theory of evolution by natural selection (Darwin, Origin of Species) ; Publication ; https://www.southampton.ac.uk/~cpd/history.html
+1874.07.24 ; First patent of the Incandescent Light Bulb ; Invention ; https://www.southampton.ac.uk/~cpd/history.html
+1879.03.14 ; Albert Einstein (German theoretical physicist) is born ; Person ; https://en.wikipedia.org/wiki/Albert_Einstein
+1885.00.00 ; First internal-combustion engines ; Invention ; https://www.southampton.ac.uk/~cpd/history.html
+1889.03.15 ; Eiffel Tower (Paris) finished construction ; Creation ; https://en.wikipedia.org/wiki/Eiffel_Tower
+1903.12.17 ; First sustained, controlled, powered heavier-than-air manned flight (Wright Brothers) ; Invention ; https://en.wikipedia.org/wiki/Early_flying_machines#The_Wright_brothers
+1905.09.25 ; Theory Of Special Relativity published (Albert Einstein) ; Publication ; https://en.wikipedia.org/wiki/History_of_special_relativity#Einstein_1905
+1912.04.14 ; RMS Titanic hits an iceberg and sinks ; Disaster ; https://en.wikipedia.org/wiki/RMS_Titanic#Sinking
+1914.07.26 ; First World War ;  ; https://www.southampton.ac.uk/~cpd/history.html
+1915.11.25 ; Theory Of General Relativity published (Albert Einstein) ; Publication ; https://en.wikipedia.org/wiki/History_of_general_relativity
+1917.00.00 ; Russian Revolution and first Communist State ;  ; https://www.southampton.ac.uk/~cpd/history.html
+1922.12.30 ; USSR is formed ;  ; https://en.wikipedia.org/wiki/Soviet_Union
+1930.00.00 ; Isolation of first antibiotic (Penicillin) ; Invention ; https://www.southampton.ac.uk/~cpd/history.html
+1937.05.06 ; LZ 129 Hindenburg is destroyed in an accident ; Disaster ; https://en.wikipedia.org/wiki/LZ_129_Hindenburg
+1939.09.01 ; Second World War ;  ; https://www.southampton.ac.uk/~cpd/history.html
+1942.00.00 ; Start of the Manhatten Project ; Breakthrough ; https://en.wikipedia.org/wiki/Manhattan_Project
+1945.08.06 ; First use of atomic bomb (Hiroshima) ; Disaster ; https://www.southampton.ac.uk/~cpd/history.html
+1947.00.00 ; Invention of transistors ; Invention ; https://www.southampton.ac.uk/~cpd/history.html
+1953.00.00 ; Chemical structure of DNA worked out ; Breakthrough ; https://www.southampton.ac.uk/~cpd/history.html
+1955.12.01 ; Rosa Parks refuses to move in a bus ;  ; https://en.wikipedia.org/wiki/Rosa_Parks#Refusal_to_move
+1957.10.04 ; First oribing space satellite (Sputnik 1) ; Breakthrough ; https://www.southampton.ac.uk/~cpd/history.html
+1958.01.01 ; European Union is formed (Treaty of Rome) ;  ; https://en.wikipedia.org/wiki/European_Union
+1961.04.12 ; First human in space (Gagarin) ; Breakthrough ; https://www.southampton.ac.uk/~cpd/history.html
+1963.08.28 ; "I Have A Dream" by Martin Luther King Jr. ;  ; https://en.wikipedia.org/wiki/I_Have_a_Dream
+1969.07.20 ; First humans land on the moon (Apollo 11) ; Breakthrough ; https://www.southampton.ac.uk/~cpd/history.html
+1969.10.29 ; First Internet Connection (ARPAnet) ; Invention ; Internethttps://en.wikipedia.org/wiki/ARPANET
+1981.00.00 ; Discovery of AIDS ;  ; https://www.southampton.ac.uk/~cpd/history.html
+1986.00.00 ; World population of humans passes 5.000.000.000 ; Breakthrough ; https://www.southampton.ac.uk/~cpd/history.html
+1986.04.26 ; Chernobyl disaster ; Disaster ; https://en.wikipedia.org/wiki/Chernobyl_disaster
+1990.04.24 ; Hubble Space Telescope is launched ;  ; https://en.wikipedia.org/wiki/Hubble_Space_Telescope
+1991.12.08 ; USSR is dissolved ;  ; https://en.wikipedia.org/wiki/Soviet_Union#Dissolution
+1996.00.00 ; First cloned cheep ; Breakthrough ; https://www.southampton.ac.uk/~cpd/history.html
+1997.07.04 ; First robotic rover (Sojourner) lands and Mars and transmits measurements ; Breakthrough ; https://www.southampton.ac.uk/~cpd/history.html
+2001.09.11 ; September 11 (9/11, USA) attacks ; Disaster ; https://en.wikipedia.org/wiki/September_11_attacks
+2011.03.11 ; Fukushima Daiichi nuclear disaster ; Disaster ; https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster
+2012.02.15 ; Voyager leaves the solar system (as first human-made object) ; Breakthrough ; https://www.southampton.ac.uk/~cpd/history.html
+2015.09.14 ; First observation of gravitational waves ; Breakthrough ; https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves
