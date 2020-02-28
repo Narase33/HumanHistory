@@ -51,6 +51,7 @@
 1874.07.24 ; First patent of the Incandescent Light Bulb ; Invention ; https://www.southampton.ac.uk/~cpd/history.html
 1879.03.14 ; Albert Einstein (German theoretical physicist) is born ; Person ; https://en.wikipedia.org/wiki/Albert_Einstein
 1885.00.00 ; First internal-combustion engines ; Invention ; https://www.southampton.ac.uk/~cpd/history.html
+1886.10.28 ; Dedication of the Statue of Liberty to New York (USA) ; Creation ; https://en.wikipedia.org/wiki/Statue_of_Liberty
 1889.03.15 ; Eiffel Tower (Paris) finished construction ; Creation ; https://en.wikipedia.org/wiki/Eiffel_Tower
 1903.12.17 ; First sustained, controlled, powered heavier-than-air manned flight (Wright Brothers) ; Invention ; https://en.wikipedia.org/wiki/Early_flying_machines#The_Wright_brothers
 1905.09.25 ; Theory Of Special Relativity published (Albert Einstein) ; Publication ; https://en.wikipedia.org/wiki/History_of_special_relativity#Einstein_1905
